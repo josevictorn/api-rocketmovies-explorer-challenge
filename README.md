@@ -26,7 +26,7 @@ Esse foi um desafio proposto dentro do programa Explorer para treinar
 - SQLite
 - Knex
 - BcryptJS
--Cors
+- Cors
 ---
 
 <div align="center">
